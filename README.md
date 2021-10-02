@@ -12,9 +12,7 @@
 
 - 📫 How to reach me: ...
 
-
-
-[<img align="left" alt="Felipe Flores | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/felipe-antonio-flores-torres-1b1607165/)
+[<img align="left" alt="Felipe Flores | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/felipe-antonio-flores-torres-1b1607165/)
 
 <!--
 **FelFT/FelFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
