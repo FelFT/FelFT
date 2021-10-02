@@ -22,7 +22,10 @@
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="C#" width="35px" src="https://static.cdnlogo.com/logos/c/27/c.svg" />
 
+<br />
+---
 
+<img align="left" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelFT&show_icons=true&hide_border=true" />
 
 
 <!--
@@ -41,7 +44,4 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Android Studio" width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />
 <img align="left" alt="Arduino" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/800px-ArduinoLogo_%C2%AE.svg.png" />
-
-
-
 -->
