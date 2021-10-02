@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not an expert playing any games
 
-## 📫 How to reach me: ...
+### 📫 How to reach me: ...
 
 [<img align="left" alt="Felipe Flores | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/felipe-antonio-flores-torres-1b1607165/)
 
