@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-Sólo sé que tengo un largo camino por recorrer, en el cual sigo adelante y con muchas ganas de aprender 🌱
+
+- 🔭 I’m currently working on checking Python code
+- 🌱 I’m currently learning a little of everything
+- 🤔 I’m looking for help with managing my time
+- 💬 Ask me about something that I might not know
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm not an expert playing any games
+
+- 📫 How to reach me: ...
+[<img align="left" alt="Felipe Flores | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
+
 <!--
 **FelFT/FelFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
