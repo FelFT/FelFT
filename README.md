@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Sólo sé que tengo un largo camino por recorrer, en el cual sigo adelante y con muchas ganas de aprender 🌱
 <!--
 **FelFT/FelFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
