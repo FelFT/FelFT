@@ -12,6 +12,10 @@
 
 [<img align="left" alt="Felipe Flores | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/felipe-antonio-flores-torres-1b1607165/)
 
+
+
+
+
 ### 💻 Languages and Tools:
 
 [<img align="left" alt="Python" width="30px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />]
