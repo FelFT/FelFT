@@ -12,15 +12,16 @@
 
 [<img align="left" alt="Felipe Flores | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/felipe-antonio-flores-torres-1b1607165/)
 
-## 💻 Languages and Tools:
+<br />
+
+### 💻 Languages and Tools:
 
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
-<img align="left" alt="Android Studio" width="30px" src="https://e7.pngegg.com/pngimages/466/228/png-clipart-android-studio-integrated-development-environment-logo-android-studio-logo.png" />
-<img align="left" alt="Arduino" width="30px" src="https://w7.pngwing.com/pngs/676/338/png-transparent-arduino-computer-software-library-electronics-computer-electronics-baby-computer-thumbnail.png" />
+<img align="left" alt="C#" width="35px" src="https://static.cdnlogo.com/logos/c/27/c.svg" />
+
 
 
 
@@ -37,4 +38,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="left" alt="Android Studio" width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />
+<img align="left" alt="Arduino" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/800px-ArduinoLogo_%C2%AE.svg.png" />
+
+
+
 -->
