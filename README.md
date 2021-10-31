@@ -25,7 +25,7 @@
 <br />
 <br />
 
-<img align="left" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelFT&show_icons=true&hide_border=true&theme={{ctx.theme}}" />
+<img align="left" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelFT&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db" />
 
 
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Android Studio" width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />
 <img align="left" alt="Arduino" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/800px-ArduinoLogo_%C2%AE.svg.png" />
 
-<img align="left" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelFT&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelFT&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db" />
 
 
 -->
