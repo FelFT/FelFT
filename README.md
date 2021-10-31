@@ -25,7 +25,7 @@
 <br />
 <br />
 
-<img align="left" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelFT&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelFT&show_icons=true&hide_border=true&theme={{ctx.theme}}" />
 
 
 
