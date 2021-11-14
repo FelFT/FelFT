@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=FelFT&color=green)
 
 - 🔭 I’m currently working on checking Python code
 - 🌱 I’m currently learning a little of everything
