@@ -12,6 +12,8 @@
 ### 📫 How to reach me:
 
 [<img align="left" alt="Felipe Flores | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/felipe-florest)
+[<img align="left" alt="Felipe Flores | Twitter" width="30px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />](https://twitter.com/FelipeFloresT)
+[<img align="left" alt="Felipe Flores | Twitter" width="30px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />](https://www.instagram.com/felipeflorests/)
 
 <br />
 
