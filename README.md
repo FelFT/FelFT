@@ -41,7 +41,14 @@ Para cuando tengas mejores estadisticas
 <br />
 <br />
 
-<img align="left" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelFT&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db" />
+<p align="left">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felft&show_icons=true&locale=en&layout=compact" alt="felft" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felft&show_icons=true&locale=en" alt="Felipe's Github Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felft&" alt="felft" /></p></p>
+
+
+
 
 
 
