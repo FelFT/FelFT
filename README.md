@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Hi there! I'm  <a href="https://www.linkedin.com/in/felipe-florest/"><i>Felipe Flores</i></a> 😃️</h1>
   <p align="center">I'm a passionate about technology and programming. I am always willing to learn something new. <span> 🧑⚙️ </span>
-  </a><br>
+  <br>
   <p align="center">If you would like to contact me, do not hesitate to do so! 😉️</h2>
 </div>
 
@@ -59,6 +59,12 @@
   <a href="https://twitter.com/FelipeFloresT"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 </div>
 
+<h2 align="center">Watch my contribution graph get eaten by the snake 🐍 </h2>
+
+<div align="center">
+   <a href="https://github.com/felft">
+     <img align="center" src="https://github.com/felft/felft/blob/output/github-contribution-grid-snake.gif" alt="felft" /></p></p>
+ </div>
 
 
 <!--
@@ -115,7 +121,9 @@ Para cuando tengas mejores estadisticas
 
 
 
+### I'm listening too:
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 **FelFT/FelFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
