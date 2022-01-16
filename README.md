@@ -6,7 +6,13 @@
 </div>
 
 <div align="center">
- <p align="center" href="https://github.com/felft"> <img src="https://komarev.com/ghpvc/?username=felft&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="felft" /> </p>
+ <p align="center" href="https://github.com/felft"> 
+   <img src="https://komarev.com/ghpvc/?username=felft&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="felft"/> 
+   <img src="https://img.shields.io/github/followers/felft.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=orange" alt="felft"/> 
+   <img src="https://img.shields.io/twitter/follow/felipeflorest?color=blue&label=Follow&logo=twitter&style=flat" alt="felft"/> 
+ 
+ </p>
+  
 </div>
 
 <div align ="center">
@@ -44,8 +50,8 @@
 <div align="center">
   <a href="https://www.instagram.com/felipeflorests/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-florest/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:felfts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/FelipeFloresT"><img src="https://img.shields.io/badge/-Twitter-%08a0e9?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="mailto:felfts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+  <a href="https://twitter.com/FelipeFloresT"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 </div>
 
 
