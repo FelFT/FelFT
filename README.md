@@ -33,7 +33,9 @@
  
 
 <div align="center" valign="top"><br>
- <!-- 
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <!-- 
  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 -->  
@@ -47,9 +49,10 @@
   <img align="center" alt="github" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/github-153-675523.png">
 <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> -->
-  <img align="center" alt="android" width="40" height="30" src="https://cdn.freebiesupply.com/logos/thumbs/2x/android-logo.png" />
-  <img align="center" alt="arduino" width="40" height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>
-  <img align="center" alt="azure" width="40" height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
+  <img align="center" alt="android" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+  <!-- <img align="center" alt="arduino" width="40" height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/> -->
+  <img align="center" alt="azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </div><br>
 
 <div align="center">
