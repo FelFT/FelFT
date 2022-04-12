@@ -1,18 +1,21 @@
+<h1>Hi there! 👋 I'm  <a href="https://www.linkedin.com/in/felipe-florest/"><i>Felipe Flores</i></a> 😃️</h1>
+
+<div align="center">
+  <p align="center" href="https://github.com/felft"> 
+    <img src="https://komarev.com/ghpvc/?username=felft&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="felft"/> 
+    <img src="https://img.shields.io/github/followers/felft.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=orange" alt="felft"/> 
+    <img src="https://img.shields.io/twitter/follow/felipflorest?color=blue&label=Follow&logo=twitter&style=flat" alt="felft"/>   
+  </p>
+</div>
+  
 <img align="right" width=300px alt="Robot" src="https://c.tenor.com/E1Pzp4XyLvMAAAAi/technologist-technologists.gif"/>
 
 <div>
-  <h1>Hi there! 👋 I'm  <a href="https://www.linkedin.com/in/felipe-florest/"><i>Felipe Flores</i></a> 😃️</h1>
-  <p>I am a passionate about technology and programming. I am always willing to learn something new. <span> 🧑⚙️ </span>
-
-  <div align="center">
-    <p align="center" href="https://github.com/felft"> 
-      <img src="https://komarev.com/ghpvc/?username=felft&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="felft"/> 
-      <img src="https://img.shields.io/github/followers/felft.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=orange" alt="felft"/> 
-      <img src="https://img.shields.io/twitter/follow/felipflorest?color=blue&label=Follow&logo=twitter&style=flat" alt="felft"/>   
-    </p>
-  </div>
-  
   <h2> <img src="https://c.tenor.com/b-6uXPvnQREAAAAi/item-box-mario-kart.gif" width=25px/> About me </h2>
+  <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=55px align="left"/>
+  <p>I am an undergraduate Engineering student.👩‍🔧🔧⚙️🚀  I am a Microoft Learn Student Ambassador and IBM zSystem Student Ambassador </p>
+  <img src="https://media4.giphy.com/media/72QU9rBiYs23s5JBGp/giphy.gif?cid=ecf05e47eysdnpp1fuls4rsoxrhr2i6l8ri29btx7nmlg8r1&rid=giphy.gif&ct=s" width=55px align="left"/>
+  <p>I am a passionate about technology and programming. I am always willing to learn something new. <span> 🧑⚙️ </span></p>
   <b>I am interested in Data Science, Artificial Intelligence, Web Design, and Internet of Things</b>
   <br>
   <br>
