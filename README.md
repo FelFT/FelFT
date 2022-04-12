@@ -13,10 +13,9 @@
 <div>
   <h2> <img src="https://c.tenor.com/b-6uXPvnQREAAAAi/item-box-mario-kart.gif" width=25px/> About me </h2>
   <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=55px align="left"/>
-  <p>I am an undergraduate Engineering student.👩‍🔧🔧⚙️🚀  I am a Microoft Learn Student Ambassador and IBM zSystem Student Ambassador </p>
-  <img src="https://media4.giphy.com/media/72QU9rBiYs23s5JBGp/giphy.gif?cid=ecf05e47eysdnpp1fuls4rsoxrhr2i6l8ri29btx7nmlg8r1&rid=giphy.gif&ct=s" width=55px align="left"/>
-  <p>I am a passionate about technology and programming. I am always willing to learn something new. <span> 🧑⚙️ </span></p>
-  <b>I am interested in Data Science, Artificial Intelligence, Web Design, and Internet of Things</b>
+  <p> 👩‍🔧🔧⚙️🚀 I am an undergraduate Engineering student. 👨‍🎓 I am a Microoft Learn Student Ambassador and IBM zSystem Student Ambassador </p>
+  <p> 💻 I am a passionate about technology and programming. 🤓 I am always willing to learn something new. <span> 🧑⚙️ </span></p>
+  <b> I am interested in 📊 Data Science, 🧠🤖 Artificial Intelligence, 🌐 Web Design, and 🦾 Internet of Things</b>
   <br>
   <br>
   <ul>
