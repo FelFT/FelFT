@@ -18,20 +18,16 @@
   <b> I am interested in 📊 Data Science, 🧠🤖 Artificial Intelligence, 🌐 Web Design, and 🦾 Internet of Things</b>
   <br>
   <br>
+  <!--
   <ul>
     <li>🌱 I’m currently learning: </li>
     <ul>
       <li> Java </li>
       <li> React js </li>
     </ul>
+-->
     <li>👯 I’m looking forward to collaborate on open source projects.</li>
-    <li>🧘‍♂️ Outside tech, I love to: </li>
-      <ul>
-        <li>📺 watch series </li> 
-        <li>🕹️ play videogames </li> 
-        <li>🎵 listen to music </li>
-        <li>🌴 explore nature outdoors. </li>
-    </ul>
+    <li>🧘‍♂️ Outside tech, I love to 📺 watch series 🕹️ play videogames and 🎵 listen to music  </li>
   </ul>
 </div>
 <!--
