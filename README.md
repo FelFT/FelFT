@@ -1,23 +1,36 @@
+<img align="right" width=300px alt="Robot" src="https://c.tenor.com/E1Pzp4XyLvMAAAAi/technologist-technologists.gif"/>
+
 <div>
-  <h1 align="center">Hi there! I'm  <a href="https://www.linkedin.com/in/felipe-florest/"><i>Felipe Flores</i></a> 😃️</h1>
-  <p align="center">I'm a passionate about technology and programming. I am always willing to learn something new. <span> 🧑⚙️ </span>
-  <br>
-  <p align="center">If you would like to contact me, do not hesitate to do so! 😉️</h2>
-</div>
+  <h1>Hi there! 👋 I'm  <a href="https://www.linkedin.com/in/felipe-florest/"><i>Felipe Flores</i></a> 😃️</h1>
+  <p>I am a passionate about technology and programming. I am always willing to learn something new. <span> 🧑⚙️ </span>
 
-<div align="center">
- <p align="center" href="https://github.com/felft"> 
-   <img src="https://komarev.com/ghpvc/?username=felft&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="felft"/> 
-   <img src="https://img.shields.io/github/followers/felft.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=orange" alt="felft"/> 
-   <img src="https://img.shields.io/twitter/follow/felipflorest?color=blue&label=Follow&logo=twitter&style=flat" alt="felft"/> 
- 
- </p>
+  <div align="center">
+    <p align="center" href="https://github.com/felft"> 
+      <img src="https://komarev.com/ghpvc/?username=felft&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="felft"/> 
+      <img src="https://img.shields.io/github/followers/felft.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=orange" alt="felft"/> 
+      <img src="https://img.shields.io/twitter/follow/felipflorest?color=blue&label=Follow&logo=twitter&style=flat" alt="felft"/>   
+    </p>
+  </div>
   
+  <h2> <img src="https://c.tenor.com/b-6uXPvnQREAAAAi/item-box-mario-kart.gif" width=25px/> About me </h2>
+  <b>I am interested in Data Science, Artificial Intelligence, Web Design, and Internet of Things</b>
+  <br>
+  <br>
+  <ul>
+    <li>🌱 I’m currently learning: </li>
+    <ul>
+      <li> Java </li>
+      <li> React js </li>
+    </ul>
+    <li>👯 I’m looking forward to collaborate on open source projects.</li>
+    <li>🧘‍♂️ Outside tech, 📺 I love to watch series, 🕹️ play videogames, 🎵 listen to music, and 🌴 explore nature outdoors. </li>
+  </ul>
 </div>
-
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felft" alt="felft" /></a> </p>
 -->
+
+<h2> <img src="https://c.tenor.com/hxHmbBGAThcAAAAi/question.gif" width=15px/> My Github Stats </h2>
 
 <div align ="center">
   <a href="https://github.com/felft">
@@ -26,34 +39,62 @@
   </a>
 </div>
 
-<div align="center">
-   <a href="https://github.com/felft">
-     <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felft&theme=dark" alt="felft" /></p></p>
- </div>
+  <div align="center">
+    <a href="https://github.com/felft">
+      <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felft&theme=dark" alt="felft" /></p></p>
+    </a>
+  </div>
  
-
+<h2><img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" width=25px/> Languages and tools </h2>
 <div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <!-- 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Jupyter" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  </a>
+ <!-- 
  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
--->  
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+-->
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
   <!-- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  </a>
   <!--<img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> -->
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/github-153-675523.png">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Github" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/github-153-675523.png">
+  </a>
+    <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> -->
-  <img align="center" alt="android" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img align="center" alt="Android" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+  </a>
   <!-- <img align="center" alt="arduino" width="40" height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/> -->
-  <img align="center" alt="azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" alt="azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Arduino" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  </a>
 </div><br>
+
+<h2> <img src="https://c.tenor.com/s6c_dD6n6CYAAAAi/microsoft-microsoft-windows.gif" width=25px/> Social media </h2>
+  
+  <p>✔ If you would like to contact me, do not hesitate to do so! 😉️
+</div>
 
 <div align="center">
   <a href="https://www.instagram.com/felipflorest/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -62,9 +103,10 @@
   <a href="https://twitter.com/FelipFloresT"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 </div>
 
-<h2 align="center">Watch my contribution graph get eaten by the snake 🐍 </h2>
 
-<div align="center">
+<h2><img src="https://c.tenor.com/kALaOTg9xiYAAAAi/cube-square.gif" width=25px/>  Watch my contribution graph get eaten by the snake <img src="https://c.tenor.com/AFB6UUnsEZIAAAAi/dm4uz3-foekoe.gif" width=25px/> </h2>
+
+<div align="ce width=25px/> nter">
    <a href="https://github.com/felft">
      <img align="center" src="https://github.com/felft/felft/blob/output/github-contribution-grid-snake.svg" alt="felft" /></p></p>
  </div>
@@ -100,19 +142,6 @@ Para cuando tengas mejores estadisticas
 
 <br />
 <br />
-
-<h3 align="left">💻Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>  </a> </p>
-
-
-<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="C#" width="30px" src="https://static.cdnlogo.com/logos/c/27/c.svg" />
-
 <br />
 <br />
 
