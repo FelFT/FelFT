@@ -32,21 +32,6 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felft" alt="felft" /></a> </p>
 -->
-
-<h2> <img src="https://c.tenor.com/hxHmbBGAThcAAAAi/question.gif" width=15px/> My Github Stats </h2>
-
-<div align ="center">
-  <a href="https://github.com/felft">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felft&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felft&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-  <div align="center">
-    <a href="https://github.com/felft">
-      <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felft&theme=dark" alt="felft" /></p></p>
-    </a>
-  </div>
  
 <h2><img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" width=25px/> Languages and tools </h2>
 <div align="center" valign="top"><br>
@@ -105,6 +90,21 @@
   <a href="mailto:felfts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
   <a href="https://twitter.com/FelipFloresT"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 </div>
+
+<h2> <img src="https://c.tenor.com/hxHmbBGAThcAAAAi/question.gif" width=15px/> My Github Stats </h2>
+
+<div align ="center">
+  <a href="https://github.com/felft">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felft&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felft&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+  <div align="center">
+    <a href="https://github.com/felft">
+      <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felft&theme=dark" alt="felft" /></p></p>
+    </a>
+  </div>
 
 
 <h2><img src="https://c.tenor.com/kALaOTg9xiYAAAAi/cube-square.gif" width=25px/>  Watch my contribution graph get eaten by the snake <img src="https://c.tenor.com/AFB6UUnsEZIAAAAi/dm4uz3-foekoe.gif" width=25px/> </h2>
