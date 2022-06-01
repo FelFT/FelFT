@@ -10,9 +10,9 @@
   
 
 <div>
-  <h2> <img src="https://c.tenor.com/b-6uXPvnQREAAAAi/item-box-mario-kart.gif" width=25px/> About me </h2>
-  <img align="right" width=220px alt="Robot" src="https://c.tenor.com/E1Pzp4XyLvMAAAAi/technologist-technologists.gif"/>
-  <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=55px align="left"/>
+  <h2> <img src="https://c.tenor.com/b-6uXPvnQREAAAAi/item-box-mario-kart.gif" width=25px height=25px/> About me </h2>
+  <img align="right" width=220px height=200px alt="Robot" src="https://c.tenor.com/E1Pzp4XyLvMAAAAi/technologist-technologists.gif"/>
+  <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=55px height=55px align="left"/>
   <p> 👩‍🔧🔧⚙️🚀 I am an undergraduate Engineering student. 👨‍🎓 I am a Microoft Learn Student Ambassador and IBM zSystem Student Ambassador </p>
   <b> I am interested in 📊 Data Science, 🧠🤖 Artificial Intelligence, 🌐 Web Design, and 🦾 Internet of Things</b>
   <br>
@@ -33,7 +33,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felft" alt="felft" /></a> </p>
 -->
  
-<h2><img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" width=25px/> Languages and tools </h2>
+<h2><img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" width=25px height=25px/> Languages and tools </h2>
 <div align="center" valign="top"><br>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -79,7 +79,7 @@
   </a>
 </div><br>
 
-<h2> <img src="https://c.tenor.com/s6c_dD6n6CYAAAAi/microsoft-microsoft-windows.gif" width=25px/> Social media </h2>
+<h2> <img src="https://c.tenor.com/s6c_dD6n6CYAAAAi/microsoft-microsoft-windows.gif" width=25px height=25px/> Social media </h2>
   
   <p>✔ If you would like to contact me, do not hesitate to do so! 😉️
 </div>
@@ -91,7 +91,7 @@
   <a href="https://twitter.com/FelipFloresT"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
 </div>
 
-<h2> <img src="https://c.tenor.com/hxHmbBGAThcAAAAi/question.gif" width=15px/> My Github Stats </h2>
+<h2> <img src="https://c.tenor.com/hxHmbBGAThcAAAAi/question.gif" width=15px height=25px/> My Github Stats </h2>
 
 <div align ="center">
   <a href="https://github.com/felft">
@@ -107,7 +107,7 @@
   </div>
 
 
-<h2><img src="https://c.tenor.com/kALaOTg9xiYAAAAi/cube-square.gif" width=25px/>  Watch my contribution graph get eaten by the snake <img src="https://c.tenor.com/AFB6UUnsEZIAAAAi/dm4uz3-foekoe.gif" width=25px/> </h2>
+<h2><img src="https://c.tenor.com/kALaOTg9xiYAAAAi/cube-square.gif" width=25px height=25px/>  Watch my contribution graph get eaten by the snake <img src="https://c.tenor.com/AFB6UUnsEZIAAAAi/dm4uz3-foekoe.gif" width=25px height=25px/> </h2>
 
 <div align="ce width=25px/> nter">
    <a href="https://github.com/felft">
