@@ -99,15 +99,21 @@
   <a href="https://github.com/felft">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=felft&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true">
-      <img height="150em" src="[https://path-to-default-light-mode-image.webp](https://github-readme-stats.vercel.app/api?username=felft&count_private=true&include_all_commits=true&show_icons=true&theme=light&hide_border=false&show_owner=true)">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felft&count_private=true&include_all_commits=true&show_icons=true&theme=light&hide_border=false&show_owner=true">
     </picture>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felft&theme=dark&hide_border=false&&layout=compact"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felft&theme=dark&hide_border=false&&layout=compact">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felft&theme=light&hide_border=false&&layout=compact">
+    </picture>
   </a>
 </div>
 
   <div align="center">
     <a href="https://github.com/felft">
-      <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felft&theme=dark" alt="felft" /></p></p>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=felft&theme=dark">
+        <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felft&theme=light">
+      </picture>
     </a>
   </div>
 
