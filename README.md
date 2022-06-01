@@ -93,9 +93,14 @@
 
 <h2> <img src="https://c.tenor.com/hxHmbBGAThcAAAAi/question.gif" width=15px height=25px/> My Github Stats </h2>
 
+
+
 <div align ="center">
   <a href="https://github.com/felft">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felft&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=felft&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true">
+      <img height="150em" src="[https://path-to-default-light-mode-image.webp](https://github-readme-stats.vercel.app/api?username=felft&count_private=true&include_all_commits=true&show_icons=true&theme=light&hide_border=false&show_owner=true)">
+    </picture>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felft&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
