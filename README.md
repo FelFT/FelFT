@@ -165,8 +165,6 @@ Para cuando tengas mejores estadisticas
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felft&" alt="felft" /></p></p>
 
-
-
 ### I'm listening too:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
