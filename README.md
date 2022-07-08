@@ -1,6 +1,5 @@
 <h1>Hi there! 👋 I'm  <a href="https://www.linkedin.com/in/felipe-florest/"><i>Felipe Flores</i></a> 😃️</h1>
 
-
 <div align="center">
   <p align="center" href="https://github.com/felft"> 
     <img src="https://komarev.com/ghpvc/?username=felft&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="felft"/> 
@@ -138,9 +137,6 @@ Para cuando tengas mejores estadisticas
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felft" alt="felft" /></a> </p>
 <p align="left"> <a href="https://twitter.com/FelipeFloresT" target="blank"><img src="https://img.shields.io/twitter/follow/felft?logo=twitter&style=for-the-badge" alt="FelipeFloresT" /></a> </p>
 
-
-
-
 - 🔭 I’m currently working on checking Python code
 - 🌱 I’m currently learning a little of everything
 - 🤔 I’m looking for help with managing my time
@@ -187,6 +183,4 @@ Here are some ideas to get you started:
 <img align="left" alt="Arduino" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/800px-ArduinoLogo_%C2%AE.svg.png" />
 
 <img align="left" alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelFT&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db" />
-
-
 -->
