@@ -123,8 +123,6 @@
      <img align="center" src="https://github.com/felft/felft/blob/output/github-contribution-grid-snake.svg" alt="felft" /></p></p>
  </div>
 
-
-
 <!--
 
 ## Hi there 👋
