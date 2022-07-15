@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/twitter/follow/felipflorest?color=blue&label=Follow&logo=twitter&style=flat" alt="felft"/>   
   </p>
 </div>
-  
+
 <div>
   <h2> <img src="https://c.tenor.com/b-6uXPvnQREAAAAi/item-box-mario-kart.gif" width=25px height=25px/> About me </h2>
   <img align="right" width=220px height=220px alt="Robot" src="https://c.tenor.com/E1Pzp4XyLvMAAAAi/technologist-technologists.gif"/>
@@ -162,7 +162,6 @@ Para cuando tengas mejores estadisticas
 ### I'm listening too:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 **FelFT/FelFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
