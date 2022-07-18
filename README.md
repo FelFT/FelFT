@@ -148,11 +148,6 @@ Para cuando tengas mejores estadisticas
 [<img align="left" alt="Felipe Flores | Twitter" width="40px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" />](https://twitter.com/FelipeFloresT)
 [<img align="left" alt="Felipe Flores | Instagram" width="42px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />](https://www.instagram.com/felipeflorests/) 
 
-<br />
-<br />
-<br />
-<br />
-
 <p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felft&show_icons=true&locale=en&layout=compact" alt="felft" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felft&show_icons=true&locale=en" alt="Felipe's Github Stats" /></p>
